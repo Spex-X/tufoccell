@@ -54,10 +54,13 @@ export default function Home() {
             </div>
             <div className="text-center">
               <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-2xl">�️</span>
+                <span className="text-2xl">🛡️</span>
               </div>
               <h3 className="text-xl font-semibold mb-2">Manutenção</h3>
-              <p className="text-gray-600">Limpeza e manutenção preventiva</p>
+              <p className="text-gray-600 mb-4">Limpeza e manutenção preventiva</p>
+              <a href="/manutencao" className="text-blue-600 hover:text-blue-700 font-semibold">
+                Ver Serviços →
+              </a>
             </div>
             <div className="text-center">
               <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
