@@ -210,54 +210,6 @@ export default function Manutencao() {
             </div>
           </div>
         </div>
-
-        {/* Benefícios - Continuação */}
-        <div className="bg-gray-50 py-16">
-          <div className="max-w-6xl mx-auto px-4">
-            <h2 className="text-3xl font-bold text-center mb-4">Veja o porque contratar a Tufocell</h2>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">
-              <div className="bg-white p-8 rounded-lg shadow-md text-center">
-                <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                  <span className="text-3xl">🔍</span>
-                </div>
-                <h3 className="text-xl font-bold mb-4">Diagnósticos Rápidos e Precisos</h3>
-                <p className="text-gray-600">
-                  Com equipamentos avançados e profissionais experientes, podemos identificar problemas de forma eficiente.
-                </p>
-              </div>
-              <div className="bg-white p-8 rounded-lg shadow-md text-center">
-                <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                  <span className="text-3xl">⚡</span>
-                </div>
-                <h3 className="text-xl font-bold mb-4">Serviço Rápido e Confiável</h3>
-                <p className="text-gray-600">
-                  Serviço ágil e de qualidade, atendendo às necessidades dos clientes de maneira oportuna.
-                </p>
-              </div>
-              <div className="bg-white p-8 rounded-lg shadow-md text-center">
-                <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                  <span className="text-3xl">😊</span>
-                </div>
-                <h3 className="text-xl font-bold mb-4">Satisfação do Cliente</h3>
-                <p className="text-gray-600">
-                  Nosso compromisso é garantir a satisfação de cada cliente, oferecendo um serviço personalizado e atencioso.
-                </p>
-              </div>
-            </div>
-            <div className="text-center mt-12">
-              <div className="bg-white rounded-lg p-2 inline-block">
-                <a 
-                  href="https://wa.me/556581355184?text=Ol%C3%A1%2C%20vim%20do%20site%20e%20gostaria%20de%20fazer%20um%20or%C3%A7amento!"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block bg-green-500 text-white px-8 py-3 rounded font-bold hover:bg-green-600 transition-colors"
-                >
-                  Solicite seu Orçamento
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );
